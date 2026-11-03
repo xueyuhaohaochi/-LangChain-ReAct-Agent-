@@ -1,0 +1,10 @@
+2026-07-19 21:14:37,390 - agent - ERROR - prompt_loader.py:16 - [load_system_prompts]解析系统提示词出错，[Errno 2] No such file or directory: 'C:\\Users\\鳕鱼好好吃\\PycharmProjects\\agent\\agent\\Agent智能体\\prompts/main_prompt.txt'
+2026-07-19 21:15:54,019 - agent - ERROR - prompt_loader.py:16 - [load_system_prompts]解析系统提示词出错，[Errno 2] No such file or directory: 'C:\\Users\\鳕鱼好好吃\\PycharmProjects\\agent\\agent\\Agent智能体\\prompts/main_prompt.txt'
+2026-07-19 21:17:38,875 - agent - ERROR - prompt_loader.py:16 - [load_system_prompts]解析系统提示词出错，[Errno 2] No such file or directory: 'C:\\Users\\鳕鱼好好吃\\PycharmProjects\\agent\\agent\\Agent智能体\\prompts/main_prompt.txt'
+2026-07-19 21:18:52,886 - agent - ERROR - prompt_loader.py:16 - [load_system_prompts]解析系统提示词出错，[Errno 2] No such file or directory: 'C:\\Users\\鳕鱼好好吃\\PycharmProjects\\agent\\agent\\Agent智能体\\prompts/main_prompt.txt'
+2026-07-19 21:22:05,530 - agent - ERROR - prompt_loader.py:16 - [load_system_prompts]解析系统提示词出错，[Errno 2] No such file or directory: 'C:\\Users\\鳕鱼好好吃\\PycharmProjects\\agent\\agent\\Agent智能体\\prompts/main_prompt.txt'
+2026-07-19 21:26:50,040 - agent - ERROR - prompt_loader.py:23 - [load_rag_prompts]在yaml配置项中没有rag_prompt_path配置项
+2026-07-19 21:27:24,473 - agent - ERROR - prompt_loader.py:23 - [load_rag_prompts]在yaml配置项中没有rag_prompt_path配置项
+2026-07-19 21:28:17,403 - agent - ERROR - prompt_loader.py:23 - [load_rag_prompts]在yaml配置项中没有rag_prompt_path配置项
+2026-07-19 21:28:41,828 - agent - ERROR - prompt_loader.py:23 - [load_rag_prompts]在yaml配置项中没有rag_prompt_path配置项
+2026-07-19 21:30:24,969 - agent - ERROR - prompt_loader.py:29 - [load_rag_prompts]解析rag提示词出错，[Errno 2] No such file or directory: 'C:\\Users\\鳕鱼好好吃\\PycharmProjects\\agent\\agent\\Agent智能体\\prompts/rag_summarize'
